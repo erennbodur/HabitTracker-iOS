@@ -1,4 +1,5 @@
 
+
 # ZenHabits 🧘‍♂️✨
 
 Sağlıklı rutinler oluşturmayı, günlük stresi yönetmeyi ve uyku kalitesini artırmayı hedefleyen, minimalist bir iOS uygulaması.
@@ -18,7 +19,7 @@ ZenHabits, kişiselleştirilebilir alışkanlık takibi ve detaylı uyku günlü
 <div align="center">
   <img src="https://github.com/user-attachments/assets/3efd7ef4-460a-4280-a2c8-33c2072ac232" width="250">
   <img src="https://github.com/user-attachments/assets/f8e433ec-c012-4e59-8da8-6c08c564bf00" width="250">
-  <img src="" width="250">
+  <img src="https://github.com/user-attachments/assets/d0c1b693-afee-4981-add4-4b00629807e0" width="250">
 </div>
 
 ## 🛠 Kullanılan Teknolojiler
